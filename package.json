@@ -1,0 +1,16 @@
+{
+  "name": "wx-jssdk-common",
+  "version": "0.1.0",
+  "description": "Wechat js-sdk latest of commonjs format.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wechat",
+    "js",
+    "sdk"
+  ],
+  "author": "eric_cheng <chengteen@163.com> (https://github.com/Ericteen)",
+  "license": "MIT"
+}
